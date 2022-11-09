@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiden0801" alt="aiden0801" /></a> </p>
 
-- 🔭 I’m currently working on [Three WOrld](https://github.com/Aiden0801/Three-World)
+- 🔭 I’m currently working on [Three World](https://github.com/Aiden0801/Three-World)
 
 - 💬 Ask me about **React, Three.js and Next.js**
 
