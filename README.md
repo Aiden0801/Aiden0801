@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pioneer-Aiden</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A innovative full stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiden0801" alt="aiden0801" /></a> </p>
 
-- 🔭 I’m currently working on [Three World](https://github.com/Aiden0801/Three-World)
 
-- 💬 Ask me about **React, Three.js and Next.js**
-
-- 📫 How to reach me **lovelypoordev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
