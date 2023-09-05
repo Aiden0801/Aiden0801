@@ -1,7 +1,7 @@
 ### <div align="center">I'm Aiden, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🌱 I’m currently learning Dart language.  
+- 🌱 I’m currently working with Dart language.  
   
 
 - ❓ Let's discuss anything related to MERN stack, Blockchain Technology and related technologies.  
