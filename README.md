@@ -1,4 +1,4 @@
-### <div align="center">I'm Aiden, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Aiden, a passionate software engineer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🌱 I’m currently working with Dart language.  
